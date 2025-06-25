@@ -7,7 +7,7 @@
 
 
 
-                                                                                    **⚠️ Disclaimer:**
+**⚠️ Disclaimer:**
 
 This script is for educational and personal use only.
 Use responsibly at your own risk. Automating too many actions too quickly may violate YouTube's Terms of Service or trigger temporary limits on your account.
