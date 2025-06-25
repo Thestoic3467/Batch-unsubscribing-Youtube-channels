@@ -1,13 +1,19 @@
-**Steps to follow it :**
+# YouTube Bulk Unsubscribe Script
 
-1. Open Youtube
-2. Click on all subscriptions on the left side panel
-3. When all Subscriptions page is opened, Right click and click on inspect.
-4. **Go to console** and **paste the code from the text file** and press Enter 
+A JavaScript snippet that helps you unsubscribe from YouTube channels in bulk — quickly and safely — by simulating manual actions.
 
+## ✅ Features
+- Unsubscribes from all visible channels on https://www.youtube.com/feed/channels
+- Retry logic and customizable delay
+- Runs safely in the browser console
+- No external dependencies
 
+## ⚙️ How to Use
+1. Go to: https://www.youtube.com/feed/channels
+2. Scroll to load all your subscribed channels
+3. Open your browser console (F12 or Ctrl+Shift+J)
+4. Paste the script and hit Enter
 
-**⚠️ Disclaimer:**
-
-This script is for educational and personal use only.
-Use responsibly at your own risk. Automating too many actions too quickly may violate YouTube's Terms of Service or trigger temporary limits on your account.
+## ⚠️ Disclaimer
+Use responsibly and at your own risk.
+This script mimics manual actions. Overuse may trigger YouTube's rate limiting or temporary restrictions.
